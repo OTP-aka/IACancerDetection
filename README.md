@@ -1,2 +1,1 @@
-# IACancerDetection
-Rapport Détection du Cancer Intelligence Artificielle 
+Passez de Bonnes Vacances !
